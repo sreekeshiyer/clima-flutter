@@ -1,7 +1,7 @@
 import 'location.dart';
 import 'networking.dart';
 
-const apiKey = '76a35d48f58e78494299a5edee657eee';
+const apiKey = 'you_cant_see_this_huhu_GetYourOwnApiKey';
 const openWeatherMapURL = 'https://api.openweathermap.org/data/2.5/weather';
 
 class WeatherModel {
